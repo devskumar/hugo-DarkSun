@@ -1,7 +1,7 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "Vampire"
+name = "vampire"
 license = "MIT"
 licenselink = "https://github.com/devskumar/hugo-vampire/blob/master/LICENSE"
 description = "A fast, clean, responsive Hugo theme"
