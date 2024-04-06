@@ -1,4 +1,4 @@
-<h1 align=center>Hugo vampire | <a href="https://github.com/devskumar/hugo-vampire/" rel="nofollow">Demo</a></h1>
+<h1 align=center>Hugo vampire</h1>
 
 <h4 align=center>  🎨 Solarized Dark | ⚡️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive</h4>
 <br>
