@@ -14,8 +14,8 @@ assignees: ''
 Please fill the template below
 - **DO NOT** ask for instructions.
 - Use Discussions section if you need help
-- See project wiki https://github.com/devskumar/hugo-vampire/wiki
-- Read FAQs section https://github.com/devskumar/hugo-vampire/wiki/FAQs
+- See project wiki https://github.com/devskumar/hugo-DarkSun/wiki
+- Read FAQs section https://github.com/devskumar/hugo-DarkSun/wiki/FAQs
 - Search for previous issues/ pull requests
 
 -->

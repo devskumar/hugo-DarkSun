@@ -1,3 +1,3 @@
-module github.com/devskumar/hugo-vampire
+module github.com/devskumar/hugo-DarkSun
 
 go 1.12

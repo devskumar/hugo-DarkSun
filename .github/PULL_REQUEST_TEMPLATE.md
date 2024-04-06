@@ -9,7 +9,7 @@ changes. You do not need to check all the boxes below.
 **NOTE**: PaperMod does not have any external dependencies fetched from 3rd party
 CDN servers. However we do have custom Head/Footer extender templates which you can use
 to add those to your website.
-https://github.com/devskumar/hugo-vampire/wiki/FAQs#custom-head--footer
+https://github.com/devskumar/hugo-DarkSun/wiki/FAQs#custom-head--footer
 
 -->
 
@@ -35,7 +35,7 @@ is closed automatically when this PR is merged.
 
 ## PR Checklist
 
-- [ ] This change adds/updates translations and I have used the [template present here](https://github.com/devskumar/hugo-vampire/wiki/Translations#want-to-add-your-language-).
+- [ ] This change adds/updates translations and I have used the [template present here](https://github.com/devskumar/hugo-DarkSun/wiki/Translations#want-to-add-your-language-).
 - [ ] I have enabled [maintainer edits for this PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/allowing-changes-to-a-pull-request-branch-created-from-a-fork).
 - [ ] I have verified that the code works as described/as intended.
 - [ ] This change adds a Social Icon which has a permissive license to use it.

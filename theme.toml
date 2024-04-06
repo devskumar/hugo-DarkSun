@@ -1,11 +1,11 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "vampire"
+name = "DarkSun"
 license = "MIT"
-licenselink = "https://github.com/devskumar/hugo-vampire/blob/master/LICENSE"
+licenselink = "https://github.com/devskumar/hugo-DarkSun/blob/master/LICENSE"
 description = "A fast, clean, responsive Hugo theme"
-homepage = "https://github.com/devskumar/hugo-vampire"
+homepage = "https://github.com/devskumar/hugo-DarkSun"
 tags = [
   "responsive",
   "simple",
@@ -40,7 +40,7 @@ min_version = "0.112.4"
 
 [author]
   name = "Shantanu Kumar"
-  homepage = "https://github.com/devskumar/hugo-vampire"
+  homepage = "https://github.com/devskumar/hugo-DarkSun"
 
 # If porting an existing theme
 [original]
