@@ -3,7 +3,7 @@
 
 name = "Vampire"
 license = "MIT"
-licenselink = "https://github.com/adityatelange/hugo-PaperMod/blob/master/LICENSE"
+licenselink = "https://github.com/devskumar/hugo-vampire/blob/master/LICENSE"
 description = "A fast, clean, responsive Hugo theme"
 homepage = "https://github.com/devskumar/hugo-vampire"
 tags = [

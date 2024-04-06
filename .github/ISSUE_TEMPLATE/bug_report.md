@@ -14,8 +14,8 @@ assignees: ''
 Please fill the template below
 - **DO NOT** ask for instructions.
 - Use Discussions section if you need help
-- See project wiki https://github.com/adityatelange/hugo-PaperMod/wiki
-- Read FAQs section https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs
+- See project wiki https://github.com/devskumar/hugo-vampire/wiki
+- Read FAQs section https://github.com/devskumar/hugo-vampire/wiki/FAQs
 - Search for previous issues/ pull requests
 
 -->
